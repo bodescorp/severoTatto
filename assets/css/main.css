@@ -2818,7 +2818,7 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		background: #fff;
+		background: rgb(34, 34, 34);
 		padding-right: 23em;
 	}
 
